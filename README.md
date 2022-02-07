@@ -1,4 +1,4 @@
-1.Deleting a branch LOCALLY
+1.Deleting a branch LOCALLY...
 Git will not let you delete the branch you are currently on so you must make sure to checkout a branch that you are NOT deleting. For example: git checkout main
 
 Delete a branch with git branch -d <branch>.
