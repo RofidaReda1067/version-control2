@@ -1,3 +1,3 @@
-![Java1](MainPage.png)
-![Java1](levels.png)
+![Java1](Desktop\Images of project\MainPage.png)
+![Java1](Desktop\Images of project\levels.png)
 
